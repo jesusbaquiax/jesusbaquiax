@@ -11,9 +11,9 @@
 
 
 
-#### Connect with me
+#### Connect with me:
 <a href= 'https://www.linkedin.com/in/jes%C3%BAsbaquiax//' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/jesusbaquiax/" rel="nofollow"><img src= "https://img.shields.io/badge/Dev Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="https://dev.to/jesusbaquiax/" rel="nofollow"><img src= "https://img.shields.io/badge/Dev Blog-FF5722?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href='mailto:jesusbaquiax13@gmail.com' rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
