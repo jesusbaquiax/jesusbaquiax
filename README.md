@@ -4,8 +4,7 @@
 
 ## I'm Jesús Baquiax: Data Scientist | Data Analyst & recent grad of Flatiron School
 
-* 📚 I'm currently working on improving my projects with the most in demand methods.
-* ✏️ I'm also working on mastering Tableau and SQL.
+* 📚 I'm currently working on Bike Ride Sharing Datset
 * ⭕ My current goal is to learn something new everyday and making my daily GitHub contributions more green.
 * 🏃🎸📕 I enjoy running, playing bass guitar, and reading sci-fi or fantasy books.
 
