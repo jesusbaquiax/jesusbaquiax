@@ -2,10 +2,10 @@
 
 # Welcome to my GitHub Page!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Jesús Baquiax: Data Scientist | Data Analyst & recent grad of Flatiron School
+## I'm Jesús Baquiax: Data Engineer and Analyst & Grad of Flatiron School
 
-* 📚 I'm currently working on creating repo's to showcase my skills
-* ⭕ My current goal is to learn something new everyday and making my daily GitHub contributions more green.
+* 📚 I'm currently working on creating repo's to showcase my skills.
+* ⭕ My current goal is to get Technical Certifications and I'm working on getting my Master's in Computer Science.
 * 🏃🎸📕 I enjoy running, playing bass guitar, and reading sci-fi or fantasy books.
 
 
