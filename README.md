@@ -4,9 +4,10 @@
 
 ## I'm Jesús Baquiax: Data Engineer and Analyst & Grad of Flatiron School
 
-* 📚 I'm currently working on creating repo's to showcase my skills.
-* ⭕ My current goal is to get Technical Certifications and I'm working on getting my Master's in Computer Science.
-* 🏃🎸📕 I enjoy running, playing bass guitar, and reading sci-fi or fantasy books.
+* I currently work as a data engineer for CGI, a tech consulting company
+* My current goal is to get my AWS Solutions Architect Certification and long term get a Computer Science Master's Degree
+* My dream job is to be Machine Learning Data Engineer
+* I enjoy running, soccer, and spending time with my cat, Muñeca
 
 
 
